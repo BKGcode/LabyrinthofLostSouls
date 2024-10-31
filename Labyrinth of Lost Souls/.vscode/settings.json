@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Labyrinth of Lost Souls.sln"
+    "dotnet.defaultSolution": "Labyrinth of Lost Souls.sln",
+    "git.ignoreLimitWarning": true
 }
